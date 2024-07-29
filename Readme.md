@@ -1,6 +1,6 @@
 # Period Tracker to Drip
 
-A simple tool that allows you to upload an export txt file from MyCalendar/P Tracker/Period Tracker/Period Calendar and converts it into a CSV file that can be read by [drip](https://bloodyhealth.gitlab.io/)
+A simple tool that allows you to upload an export txt file from <a href="https://play.google.com/store/apps/details?id=com.popularapp.periodcalendar">MyCalendar/P Tracker/Period Tracker/Period Calendar</a> and converts it into a CSV file that can be read by [drip](https://bloodyhealth.gitlab.io/)
 
 ## Contributing
 
